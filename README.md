@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish Shahid
-- 👀 I’m interested in IoT, Firmware design, Cloud computing
+- 👀 I’m interested in IoT, Firmware design, Cloud computing and FPGA's.
 - 💞️ I’m looking to collaborate on IoT Based Projects, Arduino, ESP32, Thingsboard
 - 📫 How to reach me https://pk.linkedin.com/in/danishshahid98
 
