@@ -10,6 +10,8 @@
 My aim is to provide customers best and optimized solutions/POC/MVP to complex problems related to IoT/ CloudOps/ Embedded Systems/networks / DevOps and help them to design the product prototypes in minimal time and price. Dedicated to taking your ideas and bringing them through the design process to a fully functional product. </h3>
 
 [![Resume Badge](https://img.shields.io/badge/-Check%20out%20my%20resume-green)](https://daniq350.github.io/)
+[![Resume Badge](https://img.shields.io/badge/-Qoura%20Profile-red)](https://www.quora.com/profile/Danish-Shahid-9)
+[![Resume Badge](https://img.shields.io/badge/-IoT%20Tutorials-yellow)](https://medium.com/@danishshahid19)
 
 #### Social Media:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://pk.linkedin.com/in/danishshahid98)
