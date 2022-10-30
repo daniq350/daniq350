@@ -3,10 +3,10 @@ I am a Full-stack IoT Engineer and consultant with over five years of experience
 I love to dig into customer problems and solve them with modern technologies. I focus on delivering critical solutions, working with outstanding teams, and quickly adapting to new learnings.
 
 My core services include the following:
-✅Building IoT Platforms (PaaS)
-✅Tech Stack Selection for IoT Platforms
-✅IoT Product Consultancy
-✅Cloud-based IoT Solutions
+✅Building IoT Platforms (PaaS)  
+✅Tech Stack Selection for IoT Platforms  
+✅IoT Product Consultancy  
+✅Cloud-based IoT Solutions  
 ✅ Edge Computing, IoT Gateways and Hybrid Solutions
 ✅Building IoT, networks and system monitoring solutions
 ✅End to End LoraWAN Solutions
