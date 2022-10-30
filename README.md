@@ -2,7 +2,7 @@ I am a Full-stack IoT Engineer and consultant with over five years of experience
 
 I love to dig into customer problems and solve them with modern technologies. I focus on delivering critical solutions, working with outstanding teams, and quickly adapting to new learnings.
 
-My core services include the following:
+My core services include the following:  
 ✅Building IoT Platforms (PaaS)  
 ✅Tech Stack Selection for IoT Platforms  
 ✅IoT Product Consultancy  
@@ -67,29 +67,29 @@ My core services include the following:
        📌 Device Provisioning & Claiming, OTA, MQTT Gateway  
        📌 Thingsboard Rest API's  
 
-✔️ Datacake (LoRaWAN Monitoring Solutions)
+✔️ Datacake (LoRaWAN Monitoring Solutions)  
 ✔️Home Assistant (MQTT Integration, Zigbee2MQTT, Zwave, Advance  
-      Automations)
-✔️Node-Red
+      Automations)  
+✔️Node-Red  
 
-💠💠Scripting / Microservices Development💠💠
-✔️ Python:
+💠💠Scripting / Microservices Development💠💠  
+✔️ Python:  
     📌 API Development (Flask, FastAPI), Microservices (IoT, MQTT, Azure   
           IoT, AWS IoT ), Automation, Data Preprocessing and filtering, 
-          Integration with InfluxDB.
+          Integration with InfluxDB.  
     📌Libraries: Paho MQTT, Net-SNMP, AWS IoT SDK, Boto3, Azure IoT  
-         Hub SDK, Thingsboard SDK, InfluxDB
-✔️ Node.js, Golang
+         Hub SDK, Thingsboard SDK, InfluxDB  
+✔️ Node.js, Golang  
 
-💠💠Cloud IoT💠💠
+💠💠Cloud IoT💠💠  
 ✔️ AWS IoT Core, Greengrass, AWS IoT Analytics, Quicksight, 
-      Rekognition
-✔️Azure IoT Hub
+      Rekognition  
+✔️Azure IoT Hub  
 
-💠💠 Monitoring Solutions 💠💠
-✔️ IoT, Networks, Clusters, Systems
-✔️ Tools: 
-     📌 Python, Telegraf, InfluxDB, Kapacitor
-     📌 Grafana, Prometheus, Node Exporter 
+💠💠 Monitoring Solutions 💠💠  
+✔️ IoT, Networks, Clusters, Systems  
+✔️ Tools:   
+     📌 Python, Telegraf, InfluxDB, Kapacitor  
+     📌 Grafana, Prometheus, Node Exporter   
 
                                    💠💠💠💠💠💠💠
