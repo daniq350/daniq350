@@ -6,66 +6,66 @@ My core services include the following:
 ✅Building IoT Platforms (PaaS)  
 ✅Tech Stack Selection for IoT Platforms  
 ✅IoT Product Consultancy  
-✅Cloud-based IoT Solutions  
-✅ Edge Computing, IoT Gateways and Hybrid Solutions
-✅Building IoT, networks and system monitoring solutions
-✅End to End LoraWAN Solutions
-✅Home Automation, Smart Cities, Industrial Automation
-✅ Integration of Blockchain in IoT.
-✅ Firmware Development for IoT Devices and Gateways
-✅ Embedded Machine Learning and Computer Vision
+✅Cloud-based IoT Solutions   
+✅ Edge Computing, IoT Gateways and Hybrid Solutions  
+✅Building IoT, networks and system monitoring solutions  
+✅End to End LoraWAN Solutions   
+✅Home Automation, Smart Cities, Industrial Automation  
+✅ Integration of Blockchain in IoT.  
+✅ Firmware Development for IoT Devices and Gateways  
+✅ Embedded Machine Learning and Computer Vision  
 
 
-🌟 Expertise 🌟 
+🌟 Expertise 🌟   
 
-💠💠Operating Systems💠💠
-✔️ Ubuntu Core (IoT), Raspberry Pi OS (Raspbian), Embedded Linux, Yocto
+💠💠Operating Systems💠💠  
+✔️ Ubuntu Core (IoT), Raspberry Pi OS (Raspbian), Embedded Linux, Yocto  
 
- 💠💠Development Boards 💠💠
-✔️Raspberry Pi
-✔️Arduino Boards (Uno, Mega, IoT boards, MKR Series)
-✔️Espressif (ESP8266, ESP32, NodeMCU, ESP32-CAM , WT32-SC01)
+ 💠💠Development Boards 💠💠  
+✔️Raspberry Pi  
+✔️Arduino Boards (Uno, Mega, IoT boards, MKR Series)  
+✔️Espressif (ESP8266, ESP32, NodeMCU, ESP32-CAM , WT32-SC01)  
 
- 💠💠Firmware  Design 💠💠
-✔️ESP-IDF, Arduino, PlatformIO
-✔️Edge Impulse, TinyML
-✔️Thingsboard Arduino SDK
-✔️ WIFI, Bluetooth, BLE, LoRa, LoRaWAN
-✔️MQTT (SSL/TLS, Websockers, Paho, mbedTLS)
-✔️ AWS IoT SDK, FreeRTOS
-✔️Device Provisioning, Fleet Provisioning, OTA Updates
-✔️ESP-NOW, ESP Mesh
-✔️Graphics: Adafruit GFX, TFT ESPI, LVGL, LittlevGL
+ 💠💠Firmware  Design 💠💠  
+✔️ESP-IDF, Arduino, PlatformIO  
+✔️Edge Impulse, TinyML  
+✔️Thingsboard Arduino SDK  
+✔️ WIFI, Bluetooth, BLE, LoRa, LoRaWAN  
+✔️MQTT (SSL/TLS, Websockers, Paho, mbedTLS)  
+✔️ AWS IoT SDK, FreeRTOS  
+✔️Device Provisioning, Fleet Provisioning, OTA Updates  
+✔️ESP-NOW, ESP Mesh  
+✔️Graphics: Adafruit GFX, TFT ESPI, LVGL, LittlevGL  
 
-💠💠Communication Protocols 💠💠
-✔️ MQTT (Mosquitto Broker, ACL's, MQTT Security)
-✔️ SNMP (Network Monitoring)
-✔️ WIFI, BLE, ZigBee, Zwave
-✔️ LoraWAN :
-     📌 Gateways And Sensors Onboarding.
-     📌 Installation and Configuration of LNS (Chirpstack, The Things                   
-           Stack, Helium, LorIoT, AWS)
-      📌 Writing Uplink and Downlink Decoders for Sensors (Javascript)
-      📌 Use Cases: Smart Cities, Food Security, Smart Agriculture, Parking 
-            Systems, Air Quality Monitoring, Smart Water Metering, Energy  
-             Metering
-       📌 Worked with a variety of  Gateways & Sensors i-e MultiTech  
+💠💠Communication Protocols 💠💠  
+✔️ MQTT (Mosquitto Broker, ACL's, MQTT Security)  
+✔️ SNMP (Network Monitoring)  
+✔️ WIFI, BLE, ZigBee, Zwave  
+✔️ LoraWAN :  
+     📌 Gateways And Sensors Onboarding.  
+     📌 Installation and Configuration of LNS (Chirpstack, The Things                     
+           Stack, Helium, LorIoT, AWS)  
+      📌 Writing Uplink and Downlink Decoders for Sensors (Javascript)  
+      📌 Use Cases: Smart Cities, Food Security, Smart Agriculture, Parking   
+            Systems, Air Quality Monitoring, Smart Water Metering, Energy    
+             Metering  
+       📌 Worked with a variety of  Gateways & Sensors i-e MultiTech   
              Conduit, Kerlink Wirnet, Mikrotik, Milesight, Laird, Dragino, 
-               Senstick, Semtech
+               Senstick, Semtech  
  
-💠💠Internet of Things Platforms 💠💠
-✔️Thingsboard 
-      📌 Monolithic and Microservices Deployment of Thingsboard CE and 
-            PE
-       📌 Integration with MQTT, HTTP, LoRaWAN, The Things Network
-       📌 Data Converters
+💠💠Internet of Things Platforms 💠💠  
+✔️Thingsboard  
+      📌 Monolithic and Microservices Deployment of Thingsboard CE and  
+            PE  
+       📌 Integration with MQTT, HTTP, LoRaWAN, The Things Network  
+       📌 Data Converters  
        📌 Custom and Interactive Dashboards, Custom Widgets 
-             Development
-       📌 Complex Rulechains
-       📌 Alerting / Alarms (Email, SMS)
-       📌 Tenants and Customers Management
-       📌 Device Provisioning & Claiming, OTA, MQTT Gateway
-       📌 Thingsboard Rest API's
+           Development  
+       📌 Complex Rulechains  
+       📌 Alerting / Alarms (Email, SMS)  
+       📌 Tenants and Customers Management  
+       📌 Device Provisioning & Claiming, OTA, MQTT Gateway  
+       📌 Thingsboard Rest API's  
 
 ✔️ Datacake (LoRaWAN Monitoring Solutions)
 ✔️Home Assistant (MQTT Integration, Zigbee2MQTT, Zwave, Advance  
