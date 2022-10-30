@@ -1,43 +1,95 @@
+I am a Full-stack IoT Engineer and consultant with over five years of experience in the Internet of Things (IoT), Firmware Development, Cloud IoT, Edge Computing, LoRaWAN and  Monitoring solutions. I have been providing consulting services and end-to-end solutions for IoT products and building IoT platforms for clients around the globe. I have worked with many 🌟 startups and companies 🌟 throughout my career and delivered optimized and scalable solutions related to IoT, Edge computing, monitoring and Industry 4.0.
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there!</h1>
-<h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'am Danish! Computer Engineer, Researcher and Professional Freelancer. 
-  
-</h3>
+I love to dig into customer problems and solve them with modern technologies. I focus on delivering critical solutions, working with outstanding teams, and quickly adapting to new learnings.
 
- I've over 4 years of experience in Firmware design, Internet of Things (IoT), Cloud IoT , IoT/networks monitoring solutions and IoT consultancy. Areas of interest are Embedded Systems, Internet of Things (IoT), Cloud Computing, FPGA Design and Microprocessors.
+My core services include the following:
+✅Building IoT Platforms (PaaS)
+✅Tech Stack Selection for IoT Platforms
+✅IoT Product Consultancy
+✅Cloud-based IoT Solutions
+✅ Edge Computing, IoT Gateways and Hybrid Solutions
+✅Building IoT, networks and system monitoring solutions
+✅End to End LoraWAN Solutions
+✅Home Automation, Smart Cities, Industrial Automation
+✅ Integration of Blockchain in IoT.
+✅ Firmware Development for IoT Devices and Gateways
+✅ Embedded Machine Learning and Computer Vision
+
+
+🌟 Expertise 🌟 
+
+💠💠Operating Systems💠💠
+✔️ Ubuntu Core (IoT), Raspberry Pi OS (Raspbian), Embedded Linux, Yocto
+
+ 💠💠Development Boards 💠💠
+✔️Raspberry Pi
+✔️Arduino Boards (Uno, Mega, IoT boards, MKR Series)
+✔️Espressif (ESP8266, ESP32, NodeMCU, ESP32-CAM , WT32-SC01)
+
+ 💠💠Firmware  Design 💠💠
+✔️ESP-IDF, Arduino, PlatformIO
+✔️Edge Impulse, TinyML
+✔️Thingsboard Arduino SDK
+✔️ WIFI, Bluetooth, BLE, LoRa, LoRaWAN
+✔️MQTT (SSL/TLS, Websockers, Paho, mbedTLS)
+✔️ AWS IoT SDK, FreeRTOS
+✔️Device Provisioning, Fleet Provisioning, OTA Updates
+✔️ESP-NOW, ESP Mesh
+✔️Graphics: Adafruit GFX, TFT ESPI, LVGL, LittlevGL
+
+💠💠Communication Protocols 💠💠
+✔️ MQTT (Mosquitto Broker, ACL's, MQTT Security)
+✔️ SNMP (Network Monitoring)
+✔️ WIFI, BLE, ZigBee, Zwave
+✔️ LoraWAN :
+     📌 Gateways And Sensors Onboarding.
+     📌 Installation and Configuration of LNS (Chirpstack, The Things                   
+           Stack, Helium, LorIoT, AWS)
+      📌 Writing Uplink and Downlink Decoders for Sensors (Javascript)
+      📌 Use Cases: Smart Cities, Food Security, Smart Agriculture, Parking 
+            Systems, Air Quality Monitoring, Smart Water Metering, Energy  
+             Metering
+       📌 Worked with a variety of  Gateways & Sensors i-e MultiTech  
+             Conduit, Kerlink Wirnet, Mikrotik, Milesight, Laird, Dragino, 
+               Senstick, Semtech
  
-My aim is to provide customers best and optimized solutions/POC/MVP to complex problems related to IoT/ CloudOps/ Embedded Systems/networks / DevOps and help them to design the product prototypes in minimal time and price. Dedicated to taking your ideas and bringing them through the design process to a fully functional product. </h3>
+💠💠Internet of Things Platforms 💠💠
+✔️Thingsboard 
+      📌 Monolithic and Microservices Deployment of Thingsboard CE and 
+            PE
+       📌 Integration with MQTT, HTTP, LoRaWAN, The Things Network
+       📌 Data Converters
+       📌 Custom and Interactive Dashboards, Custom Widgets 
+             Development
+       📌 Complex Rulechains
+       📌 Alerting / Alarms (Email, SMS)
+       📌 Tenants and Customers Management
+       📌 Device Provisioning & Claiming, OTA, MQTT Gateway
+       📌 Thingsboard Rest API's
 
-[![Resume Badge](https://img.shields.io/badge/-Check%20out%20my%20Website-purple)](https://bitiot.tech)
-[![Resume Badge](https://img.shields.io/badge/-Check%20out%20my%20resume-green)](https://daniq350.github.io/)
-[![Resume Badge](https://img.shields.io/badge/-Qoura%20Profile-red)](https://www.quora.com/profile/Danish-Shahid-9)
-[![Resume Badge](https://img.shields.io/badge/-IoT%20Tutorials-yellow)](https://medium.com/@danishshahid19)
+✔️ Datacake (LoRaWAN Monitoring Solutions)
+✔️Home Assistant (MQTT Integration, Zigbee2MQTT, Zwave, Advance  
+      Automations)
+✔️Node-Red
 
-#### Social Media:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://pk.linkedin.com/in/danishshahid98)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/danishshahid98)
-#### Freelancing:
-[![Fiverr Badge](https://img.shields.io/static/v1?style=for-the-badge&message=Fiverr&color=222222&logo=Fiverr&logoColor=1DBF73&label=Level%2)](https://fiverr.com/danishshahid)
-[![Upwork Badge](https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=Top%20Rated)](https://fiverr.com/danishshahid)
+💠💠Scripting / Microservices Development💠💠
+✔️ Python:
+    📌 API Development (Flask, FastAPI), Microservices (IoT, MQTT, Azure   
+          IoT, AWS IoT ), Automation, Data Preprocessing and filtering, 
+          Integration with InfluxDB.
+    📌Libraries: Paho MQTT, Net-SNMP, AWS IoT SDK, Boto3, Azure IoT  
+         Hub SDK, Thingsboard SDK, InfluxDB
+✔️ Node.js, Golang
 
+💠💠Cloud IoT💠💠
+✔️ AWS IoT Core, Greengrass, AWS IoT Analytics, Quicksight, 
+      Rekognition
+✔️Azure IoT Hub
 
+💠💠 Monitoring Solutions 💠💠
+✔️ IoT, Networks, Clusters, Systems
+✔️ Tools: 
+     📌 Python, Telegraf, InfluxDB, Kapacitor
+     📌 Grafana, Prometheus, Node Exporter 
 
-
-#### BIO
-
-- 🏢 National University of Sciences and Technology (NUST)- MS Computer Engineering (expected graduation 2020 – 2022)
-- 🏢 COMSATS University Islamabad - BS Computer Engineering (2015– 2019)
-- 🔭 Area of interest is in <img src="https://img.shields.io/badge/-IoT-yellow"> , <img src="https://img.shields.io/badge/-Embedded%20Systesm-yellowgreen">,<img src="https://img.shields.io/badge/-Cloud%20Computing%20-red">,<img src="https://img.shields.io/badge/-Digital%20System%20Design-blue">
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:danishshahid19@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-danishshahid19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-
-![Upwork Badge](https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange) ![MATLAB](https://img.shields.io/badge/-Verilog-purple) ![MATLAB](https://img.shields.io/badge/-VHDL-yellow) 
-![MATLAB](https://img.shields.io/badge/-Arduino-blue)  ![MATLAB](https://img.shields.io/badge/-RaspberryPi-green)  ![MATLAB](https://img.shields.io/badge/-Thingsboard-blue)
-![MATLAB](https://img.shields.io/badge/-AWS-orange) ![MATLAB](https://img.shields.io/badge/-ESP32-pink) 
-
-
-
-
+                                   💠💠💠💠💠💠💠
